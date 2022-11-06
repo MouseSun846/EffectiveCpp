@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspace/EffectiveCPP/src/Widget/Widget.h
+bits/stdc++.h
+/workspace/EffectiveCPP/src/Widget/bits/stdc++.h
+
+/workspace/EffectiveCPP/src/main.cpp
+iostream
+-
+Widget/Widget.h
+/workspace/EffectiveCPP/src/Widget/Widget.h
+

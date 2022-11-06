@@ -1,0 +1,12 @@
+**.cmake
+**.txt
+
+/src/CMakeFiles
+/src/Widget/CMakeFiles
+/src/Widget/*.cmake
+/src/Widget/*.txt
+/src/*.cmake
+/src/*.txt
+/out
+/CMakeFiles
+/cmake-build-debug
