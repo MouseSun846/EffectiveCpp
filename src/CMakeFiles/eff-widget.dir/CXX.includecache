@@ -13,6 +13,8 @@ bits/stdc++.h
 /workspace/EffectiveCPP/src/main.cpp
 iostream
 -
+string
+-
 Widget/Widget.h
 /workspace/EffectiveCPP/src/Widget/Widget.h
 
